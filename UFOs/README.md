@@ -9,7 +9,7 @@ The table and webpage is reachable at this link: https://stellac2021.github.io/U
 ## Homepage
 This is the homepage showing the complete UFO sightings data table 
 
-![](/static/images/homepage.JPG)
+![](./static/images/homepage.JPG)
 
 ## Filter Options
 The users is able to filter using any combinationsof the following parameters:
@@ -22,7 +22,7 @@ The users is able to filter using any combinationsof the following parameters:
 
 *Please note that the search parameters are case sensitive*
 
-![](/static/images/filters.JPG)
+![](./static/images/filters.JPG)
 
 After user input, the table will autmomatically update
 
