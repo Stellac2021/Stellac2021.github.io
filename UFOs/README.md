@@ -4,12 +4,12 @@ The purpose of this project to create a user friendly webpage that contains a fi
 
 # Results 
 ## Link to webpage 
-The table and webpage is reachable at this link: https://stellc2021.github.io/UFOs
+The table and webpage is reachable at this link: https://stellac2021.github.io/UFOs
 
 ## Homepage
 This is the homepage showing the complete UFO sightings data table 
 
-![](static/images/homepage.jpg)
+![](/static/images/homepage.jpg)
 
 ## Filter Options
 The users is able to filter using any combinationsof the following parameters:
@@ -22,7 +22,7 @@ The users is able to filter using any combinationsof the following parameters:
 
 *Please note that the search parameters are case sensitive*
 
-![](static/images/filters.jpg)
+![](/static/images/filters.jpg)
 
 After user input, the table will autmomatically update
 
